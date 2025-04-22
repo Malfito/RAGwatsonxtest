@@ -1,0 +1,8 @@
+langchain
+ibm-watson-machine-learning
+sentence-transformers
+beautifulsoup4
+requests
+singlestoredb
+sqlalchemy-singlestoredb
+python-dotenv
