@@ -6,3 +6,4 @@ requests
 singlestoredb
 sqlalchemy-singlestoredb
 python-dotenv
+langchain_community
